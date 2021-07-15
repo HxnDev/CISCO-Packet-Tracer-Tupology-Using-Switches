@@ -1,0 +1,5 @@
+1.If a new PC 4 is added to router 2
+route = PC4 ---> Router2 ---> Router1 ---> Switch ---> PC1
+
+2.Remove the link between R1 and Router 2
+route = PC4 ---> Router2 ---> Router3 ---> Router1 ---> Switch ---> PC1
